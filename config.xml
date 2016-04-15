@@ -26,5 +26,5 @@ Vanessa Fuentes Campos
 
   <!--Colocar icono app-->
   
-  <icon src="res/android/mdpi.png"/>
+  <icon src="res/android/app.png"/>
   </widget>
