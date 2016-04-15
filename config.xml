@@ -7,10 +7,10 @@ version = "1.0.0">
 
 <!--versionCode is optional and Android only-->
 
-<name>Aplicacion tres CONTAMINACIÓN</name>
+<name>Aplicacion tresCONTAMINACION</name>
 
 <description>
- Aplicacion sobre la Contaminacion
+ Aplicacion sobre la contaminacion
 </description>
 
 <preference name="phonegap-version" value="3.1.0"/>
